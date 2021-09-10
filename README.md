@@ -20,7 +20,7 @@ Estructura general de un proyecto node.js. Folder y files:
 - <b>.ecosystem.config.js</b>. Gestor de procesos en tiempo de ejecución. Véanse [PM2 Docs](https://pm2.keymetrics.io/).
 - <b>package.json</b>.
 
-Entrega d'exercici: Node REST Server + MongoDB/MySql + JWT
+## Entrega d'exercici: Node REST Server + MongoDB/MySql + JWT
 Instrucciones
 Esta API se desarrolló bajo NodeJS v10.16.2 y NPM v6.14.8.
 
