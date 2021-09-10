@@ -28,7 +28,8 @@ Instalación
 Clonar proyecto
 Ejecute npm i
 Arranque el servidor con npm start, también puedes levantar el servidor con npm run dev, el cual hará uso de nodemon
-Endpoints
+
+### Endpoints
 POST: /players : crea un jugador
 
 PUT /players : modifica el nom del jugador
@@ -47,5 +48,5 @@ GET /players/ranking/loser: retorna el jugador amb pitjor percentatge d’èxit
 
 GET /players/ranking/winner: retorna el jugador amb pitjor percentatge d’èxit
 
-Postman collection link
+### Postman collection link
 https://www.getpostman.com/collections/7f831f340032d8fd9b38
